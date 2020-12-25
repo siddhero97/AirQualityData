@@ -1,0 +1,31 @@
+,location,city,country,pollutant,value,timestamp,unit,source_name,latitude,longitude,averaged_over_in_hours
+0,Ardhali Bazar,Varanasi,IN,co,1620.0,2018-02-22 03:00:00+00:00,µg/m³,CPCB,25.350555,82.97833,0.25
+1,Nehru Nagar,Kanpur,IN,co,2450.0,2018-02-22 03:15:00+00:00,µg/m³,CPCB,26.470308,80.32517,0.25
+2,"Lalbagh, DN Park",Lucknow,IN,co,1190.0,2018-02-22 04:00:00+00:00,µg/m³,CPCB,26.845787,80.93874,0.25
+3,Central School,Lucknow,IN,co,1350.0,2018-02-22 04:00:00+00:00,µg/m³,CPCB,26.852728,80.99633,0.25
+4,"Ardhali Bazar, Varanasi - UPPCB",Ordali Bazar,IN,co,0.0,2019-11-21 10:30:00+00:00,µg/m³,caaqm,25.3506,82.90831,0.25
+5,"Nehru Nagar, Kanpur - UPPCB",Kanpur,IN,co,490.0,2020-04-22 05:00:00+00:00,µg/m³,caaqm,26.470314,80.32298,0.25
+6,"Talkatora District Industries Center, Lucknow - CPCB",Lucknow,IN,co,1230.0,2020-06-11 01:30:00+00:00,µg/m³,caaqm,26.833998,80.89174,0.25
+7,"Lalbagh, Lucknow - CPCB",Lucknow,IN,co,1090.0,2020-06-11 01:30:00+00:00,µg/m³,caaqm,26.84588,80.936554,0.25
+8,"Gomti Nagar, Lucknow - UPPCB",Lucknow,IN,co,520.0,2019-12-10 09:45:00+00:00,µg/m³,caaqm,26.86812,81.00512,0.25
+9,"Nishant Ganj, Lucknow - UPPCB",Lucknow,IN,co,0.0,2019-08-16 11:30:00+00:00,µg/m³,caaqm,26.871428,80.957146,0.25
+10,"Central School, Lucknow - CPCB",Sector 9,IN,co,1200.0,2020-06-11 01:30:00+00:00,µg/m³,caaqm,26.882101,80.930275,0.25
+11,"Sanjay Palace, Agra - UPPCB",Agra,IN,co,0.0,2020-06-11 01:45:00+00:00,µg/m³,caaqm,27.198658,78.00598,0.25
+12,"Yamunapuram, Bulandshahr - UPPCB",F-5,IN,co,1280.0,2020-06-10 21:45:00+00:00,µg/m³,caaqm,28.406963,77.84983,0.25
+13,"Knowledge Park - III, Greater Noida - UPPCB",Gate No.3,IN,co,2370.0,2020-06-10 03:45:00+00:00,µg/m³,caaqm,28.47272,77.482,0.25
+14,"Sector - 125, Noida - UPPCB",Noida,IN,co,0.0,2020-06-10 11:45:00+00:00,µg/m³,caaqm,28.544762,77.32313,0.25
+15,"Knowledge Park - V, Greater Noida - UPPCB",Greater Noida,IN,co,1050.0,2020-06-10 22:30:00+00:00,µg/m³,caaqm,28.557055,77.45367,0.25
+16,"Sector-116, Noida - UPPCB",Noida,IN,co,290.0,2020-06-10 03:15:00+00:00,µg/m³,caaqm,28.56923,77.393845,0.25
+17,"Sector-1, Noida - UPPCB",Noida,IN,co,1410.0,2020-06-10 20:15:00+00:00,µg/m³,caaqm,28.5898,77.3101,0.25
+18,"Sector - 62, Noida - IMD",Noida,IN,co,1940.0,2020-06-11 02:00:00+00:00,µg/m³,caaqm,28.624548,77.35771,0.25
+19,"Indirapuram, Ghaziabad - UPPCB",Ganga Jalpariyojan,IN,co,640.0,2020-06-10 21:30:00+00:00,µg/m³,caaqm,28.646233,77.35808,0.25
+20,"Vasundhara, Ghaziabad - UPPCB",Ghaziabad,IN,co,1420.0,2020-06-11 01:45:00+00:00,µg/m³,caaqm,28.660336,77.357254,0.25
+21,"Sanjay Nagar, Ghaziabad - UPPCB",Ghaziabad,IN,co,610.0,2020-06-10 21:30:00+00:00,µg/m³,caaqm,28.685383,77.45384,0.25
+22,"Anand Vihar, Hapur - UPPCB",Hapur,IN,co,550.0,2020-06-10 02:00:00+00:00,µg/m³,caaqm,28.725645,77.74967,0.25
+23,"Loni, Ghaziabad - UPPCB",Loni Dehat,IN,co,5340.0,2020-06-10 21:30:00+00:00,µg/m³,caaqm,28.757294,77.27879,0.25
+24,"Lajpat Nagar, Moradabad - UPPCB",Moradabad,IN,co,1360.0,2020-06-11 01:30:00+00:00,µg/m³,caaqm,28.82534,78.7213,0.25
+25,"Jai Bhim Nagar, Meerut - UPPCB",Meerut,IN,co,220.0,2020-06-10 21:30:00+00:00,µg/m³,caaqm,28.953588,77.76229,0.25
+26,"New Collectorate, Baghpat - UPPCB",Government District Hospital,IN,co,1080.0,2020-01-11 07:15:00+00:00,µg/m³,caaqm,28.9748,77.213356,0.25
+27,"Ganga Nagar, Meerut - UPPCB",Meerut,IN,co,1390.0,2020-06-11 01:45:00+00:00,µg/m³,caaqm,28.999264,77.75903,0.25
+28,"Pallavpuram Phase 2, Meerut - UPPCB",Meerut,IN,co,840.0,2020-06-10 23:45:00+00:00,µg/m³,caaqm,29.06351,77.709724,0.25
+29,"New Mandi, Muzaffarnagar - UPPCB",SD College,IN,co,740.0,2020-06-10 10:00:00+00:00,µg/m³,caaqm,29.472351,77.719406,0.25

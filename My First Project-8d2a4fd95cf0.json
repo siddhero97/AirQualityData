@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tokyo-bird-297913",
+  "private_key_id": "8d2a4fd95cf041df569244fda163b16160b97b4f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcgEKkOOX8vB9X\nlg7CNczG7TttMnj0F0N95APL/wcZ4pI9YeiDCdD05CwUr/rXprh4ylspglvKB9TA\noPD60QF5/4hB3+Y74M0v+t3p8nFicPdkRHSmmIdizDlQ++2eNtDEIFWQgFgELbBH\nsSFyINMCPnhQO75M4cvtjF4b3qHhFkmiWQZL85CwEfHRMkRzWL1KC/AojneC+TG5\nJMPjpbg5uiX642EPWKHGDQ5Zbnwqn/AC6zxlO+NXdW6ys1TJeNxR26QF+9Z2zEP2\nz0jSW0tqBopCuHO8s/jL887EyQgJEZCL4Wjj//G9cf4Obfo/5eof7DTvfsKkC/f5\nYtKNzm4rAgMBAAECggEAHw1V67a8b3K2N083W3KIUJomleqTVD8/bX2uAS53brvl\nb1d7ZnCurMCPPIWUXHCgnprsDqbmZoY6QQRN/D43MEky9Hsj+BKJM/FvUamAtNsc\nQyFQEfQmvMQvxTFPevp+XsPZpmPI0v9rwDXVoIsBwyq4/ZZ1ElUk/NvCmn4ImZve\neqkQKip285DZFbUoYTPUmeJx8aKsBwylvULdlI5rZLgPSZus4a9RwP3ynR/8Wssw\ntKz5Sd3Bh8+cRM6OBPtqbsAZOVL1SJE2nfhNLrKeklKqmXOXql2WgJZDI3i9FmSR\n2Fm9mHfCLbhiDeWMhUmIh5wI7PmOKfqjWW885DZE+QKBgQDRVh38VpPnXvFwdNEa\nWVxwv3eyi5deO0z1zrBtwIQDqkjwHa8IdQnN686/JusKJjQf5LA7JG5ueug1dc3t\n9EQPUixatm+J/niCU9ct+eu/MYLhWxRAbDzwwe6Br8+QB+kisgAXNdkVKdxeLi9m\n/RdC9NntFoVAxPVEgus9GI/JEwKBgQC/YxEUWUXZc3cOaEaLwHbu59ruJRvDOUSv\nPn8Hlm26SVj5vxqQ8JyfORdn36ETIVcpSwPQJaS54gMUCninceL2rEKp76OistjM\nLOXfJ4rCfTeeyI1FypkhxEEsuMNRiJTt6qlhJnE59lVSQ6bl+CSox58IP5z8SNnm\nrVVF1bpBiQKBgQCJwhpJjNAYWqqYTsesh1IGAHpMzP/3yx6CRFpmX2KA5vbIzT/6\nWMry8FNGB950918l/eDbisYBfnCBfdze0vhW/MSjjZspPIUhfvsEDovNbk+q7b0O\nCCyyY20JeyEkr5AEfQ8CNzV8b+fNMqePJs7ACVHAbCmUzgh55Y3YzukQcQKBgGHb\nIG98GdfOTvCB5pgsJ2OODwW22ZQfIvxLgx35D0+xkxnXWZkEPcC3qz0EPdKPOIa3\ngVKa/LfCVPqZRAmxlG+1sjw7eDqHIYx75GkOSceZyKeaOYmWxmdadkyMh+mXYTao\nxkQTKM+PIR730k1BbFUUBD9ubzEberaUp8YWOq6pAoGATWdDW6GCrNI2wse8Nv5x\nsmdqtiVVwC0Asd0JBOldY8ABzuJ6mrgFP/5NpDg0m0sJJjyia2Pzhn7WZk3J/5gb\nBMy6K3FynYwJRbZ6fPQpujcy6LSn6WAFFo2FNWVj+Hkg67psMEsMb1P0ImcKdPB7\nqcDqbyrZgF4qaRBeSdD3bvs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "siddhartha-gupta@tokyo-bird-297913.iam.gserviceaccount.com",
+  "client_id": "116495971211135759626",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/siddhartha-gupta%40tokyo-bird-297913.iam.gserviceaccount.com"
+}
